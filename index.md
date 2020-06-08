@@ -2,6 +2,6 @@
 
 * Nama saya Muhammad Luthfi Idrus, biasanya dipanggil Upi
 
-* [urls/](urls/)
+* [urls](urls/)
 
 -- MLI
