@@ -1,35 +1,35 @@
 Script started on Mon 08 Jun 2020 08:34:30 PM WIB
-muhammad.luthfi82@badak:~/UAS$ PS1="$ "
+]0;muhammad.luthfi82@badak: ~/UASmuhammad.luthfi82@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 luthfiidrus
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-203456-41a8-UAS/>
+200608-203456-41a8-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
 200608-203501-5166-UAS/> echo -e $CEKSAYA
-luthfiidrus ZCZCSCRIPTSTART 200601-234903 luthfiidrus
- luthfiidrus luthfiidrus 200601-235027-cf6f-muhammad.luthfi82/ 200601-235027 SEQOK SUMOK cf6fca50
- luthfiidrus luthfiidrus 200601-235033-d84a-muhammad.luthfi82/ 200601-235033 SEQOK SUMOK d84afa21
- luthfiidrus luthfiidrus 200601-235042-4616-muhammad.luthfi82/ 200601-235042 SEQOK SUMOK 461634e9
- luthfiidrus luthfiidrus 200601-235050-6124-muhammad.luthfi82/ 200601-235050 SEQOK SUMOK 6124eedb
- luthfiidrus ZCZCSCRIPTSTOP 200601-235057 SEQOK
+luthfiidrus ZCZCSCRIPTSTART 200601-234903 luthfiidrus 
+ luthfiidrus luthfiidrus 200601-235027-cf6f-muhammad.luthfi82/ 200601-235027 SEQOK SUMOK cf6fca50 
+ luthfiidrus luthfiidrus 200601-235033-d84a-muhammad.luthfi82/ 200601-235033 SEQOK SUMOK d84afa21 
+ luthfiidrus luthfiidrus 200601-235042-4616-muhammad.luthfi82/ 200601-235042 SEQOK SUMOK 461634e9 
+ luthfiidrus luthfiidrus 200601-235050-6124-muhammad.luthfi82/ 200601-235050 SEQOK SUMOK 6124eedb 
+ luthfiidrus ZCZCSCRIPTSTOP 200601-235057 SEQOK 
 
 200608-203509-06b7-UAS/> echo -e $CEKSEBELA1
-luthfiidrus ZCZCSCRIPTSTART 200605-172442 maisyrahmawati
- luthfiidrus maisyrahmawati 200605-173548-f6cd-maisy.rahmawati/ 200605-173548 SEQOK SUMOK f6cdd852
- luthfiidrus maisyrahmawati 200605-173611-c5f1-maisy.rahmawati/ 200605-173611 SEQOK SUMOK c5f1f10f
- luthfiidrus maisyrahmawati 200605-175832-feca-maisy.rahmawati/ 200605-175832 SEQOK SUMOK feca7e69
- luthfiidrus maisyrahmawati 200605-175905-4b3a-maisy.rahmawati/ 200605-175905 SEQOK SUMOK 4b3a61e9
- luthfiidrus ZCZCSCRIPTSTOP 200605-175951 SEQOK
+luthfiidrus ZCZCSCRIPTSTART 200605-172442 maisyrahmawati 
+ luthfiidrus maisyrahmawati 200605-173548-f6cd-maisy.rahmawati/ 200605-173548 SEQOK SUMOK f6cdd852 
+ luthfiidrus maisyrahmawati 200605-173611-c5f1-maisy.rahmawati/ 200605-173611 SEQOK SUMOK c5f1f10f 
+ luthfiidrus maisyrahmawati 200605-175832-feca-maisy.rahmawati/ 200605-175832 SEQOK SUMOK feca7e69 
+ luthfiidrus maisyrahmawati 200605-175905-4b3a-maisy.rahmawati/ 200605-175905 SEQOK SUMOK 4b3a61e9 
+ luthfiidrus ZCZCSCRIPTSTOP 200605-175951 SEQOK 
 
 200608-203520-f031-UAS/> echo -e $CEKSEBELA2
-luthfiidrus ZCZCSCRIPTSTART 200608-183808 marcelvaldhano
- luthfiidrus marcelvaldhano 200608-183824-42e5-marcel.valdhano/ 200608-183824 SEQOK SUMOK 42e50866
- luthfiidrus marcelvaldhano 200608-183836-703f-marcel.valdhano/ 200608-183836 SEQOK SUMOK 703f9a8a
- luthfiidrus marcelvaldhano 200608-183839-a823-marcel.valdhano/ 200608-183839 SEQOK SUMOK a8232899
- luthfiidrus marcelvaldhano 200608-183846-22dc-marcel.valdhano/ 200608-183846 SEQOK SUMOK 22dc9c9b
- luthfiidrus ZCZCSCRIPTSTOP 200608-183854 SEQOK
+luthfiidrus ZCZCSCRIPTSTART 200608-183808 marcelvaldhano 
+ luthfiidrus marcelvaldhano 200608-183824-42e5-marcel.valdhano/ 200608-183824 SEQOK SUMOK 42e50866 
+ luthfiidrus marcelvaldhano 200608-183836-703f-marcel.valdhano/ 200608-183836 SEQOK SUMOK 703f9a8a 
+ luthfiidrus marcelvaldhano 200608-183839-a823-marcel.valdhano/ 200608-183839 SEQOK SUMOK a8232899 
+ luthfiidrus marcelvaldhano 200608-183846-22dc-marcel.valdhano/ 200608-183846 SEQOK SUMOK 22dc9c9b 
+ luthfiidrus ZCZCSCRIPTSTOP 200608-183854 SEQOK 
 
 200608-203532-2c6b-UAS/> exit
 exit
