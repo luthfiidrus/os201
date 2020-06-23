@@ -5,6 +5,6 @@
   Terjadinya COVID-19 yang membuat kita harus berdiam diri di rumah.
 * Mengapa saya mengambil mata kuliah Operating System?
   Karena saya ingin menjadi orang pandai.
-* [urls](urls/)
+* [URL](URLs/)
 
 -- MLI
